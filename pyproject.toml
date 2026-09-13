@@ -1,13 +1,15 @@
 [project]
 name = "ostentatiousmachine"
-version = "0.1.0"
+version = "0.1.1"
 description = "Add your description here"
 readme = "README.md"
 authors = [
     { name = "ostentatiousmachinegh", email = "ostentatiousmachinegh@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "torch>=2.14.0",
+]
 
 [tool.maturin]
 module-name = "ostentatiousmachine._core"
