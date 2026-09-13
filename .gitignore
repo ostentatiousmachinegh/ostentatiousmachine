@@ -4,6 +4,10 @@
 .ipynb_checkpoints/
 dist/
 *.egg-info/
+target/
+__pycache__/
+*.pyc
+.venv/
 
 # ----------------------------
 # Visual Studio Code
