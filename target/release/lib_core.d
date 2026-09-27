@@ -1,1 +1,1 @@
-/mnt/c/Users/phili/Downloads/ostentatiousmachine/target/release/lib_core.so: /mnt/c/Users/phili/Downloads/ostentatiousmachine/src/lib.rs
+/mnt/c/users/phili/downloads/ostentatiousmachine/target/release/lib_core.so: /mnt/c/users/phili/downloads/ostentatiousmachine/src/lib.rs
